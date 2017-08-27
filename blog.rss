@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+  <title>rooks.io</title>
+  <link>http://rooks.io</link>
+  <description>This is my blog about things</description>
+  <lastBuildDate>2017-08-24 18:33:55</lastBuildDate>
+  <language>en-us</language>
+<item>
+  <title>Happy Hacking Keyboard Pro2</title>
+  <description>[CDATA[ A Happy Keeb ]]</description>
+  <pubDate>2017-08-24</pubDate>
+  <link>http://rooks.io/2017-08-24-happy-hacking-keyboard-pro2.html</link>
+  <guid>http://rooks.io/2017-08-24-happy-hacking-keyboard-pro2.html</guid>
+</item>
+<item>
+  <title>Voretex Core</title>
+  <description>[CDATA[ A small kb ]]</description>
+  <pubDate>2017-08-23</pubDate>
+  <link>http://rooks.io/2017-08-23-voretex-core.html</link>
+  <guid>http://rooks.io/2017-08-23-voretex-core.html</guid>
+</item>
+</channel>
+</rss>
